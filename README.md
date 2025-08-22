@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy [Tu Nombre]  
+# 👋 ¡Hola! Soy Juan David Rueda  
 
 🎓 Estudiante de primer semestre de **Ingeniería de Sistemas** en la **Universidad de los Andes**.  
 💻 Me estoy formando en el mundo del desarrollo y actualmente estoy aprendiendo y practicando **Python**.
