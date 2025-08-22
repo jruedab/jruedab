@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy [Tu Nombre]  
 
-<!--
-**jruedab/jruedab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudiante de primer semestre de **Ingeniería de Sistemas** en la **Universidad de los Andes**.  
+💻 Me estoy formando en el mundo del desarrollo y actualmente estoy aprendiendo y practicando **Python**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tecnologías que manejo
+- Lenguaje principal: **Python 🐍**
+- Herramientas básicas: Git, GitHub, VS Code
+
+---
+
+### 🌱 Actualmente estoy:
+- Aprendiendo estructuras de datos y lógica de programación
+- Trabajando en pequeños proyectos personales en Python
+- Explorando Git y GitHub para el control de versiones
+
+
